@@ -257,7 +257,11 @@ In practical hospital operations, **Passive Shadow Mode** enforces four simple, 
 ### 5.2 Cryptographic Pseudonymous Case Linkage
 To reconcile AI predictions against downstream clinician decisions and delayed lab/pathology outcomes without ever transmitting patient names or hospital IDs to the central platform:
 - The on-premise **Reconciliation Module** computes a site-salted cryptographic token:
-  $$\text{case\_token} = \text{HMAC-SHA256}(\text{Site\_Secret\_Salt},\; \text{Accession\_ID} \parallel \text{Encounter\_ID})$$
+
+```text
+case_token = HMAC-SHA256(Site_Secret_Salt, Accession_ID || Encounter_ID)
+```
+
 - The `Site_Secret_Salt` never leaves the hospital firewall.
 - Both the Shadow AI inference hook and the later Clinician/Ground-Truth hook reference the exact same `case_token`, enabling lossless time-shifted matching even when confirmatory outcomes arrive days or weeks later.
 
