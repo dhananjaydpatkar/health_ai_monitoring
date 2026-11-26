@@ -1,7 +1,6 @@
 # Clinical AI Shadow-Mode Monitoring Platform
 ## Executive Brief: De-Risking Multi-Centric Healthcare AI Validation & Scale-Up in India
 
-> **Document Type:** 2-Page Executive Summary  
 > **Target Audience:** Hospital CXOs, Medical Directors, Platform Governance Council, Healthcare AI Founders & Policy Stakeholders  
 > **Authoritative Criteria Registry:** [Evaluation Metrics Explorer — AI Health Solution Evaluations](https://catch-evals.s3.ap-south-1.amazonaws.com/Evaluation_Metrics_Explorer.html)  
 > **Companion Specification:** [Detailed Architecture & Monitoring Framework](./architecture_and_framework.md)  
@@ -10,7 +9,7 @@
 ---
 
 <!-- PAGE 1 -->
-## Page 1: Strategic Imperative, Platform Vision & Operating Model
+## Strategic Imperative, Platform Vision & Operating Model
 
 ### 1. The Core Problem: India's Dual Bottleneck in Healthcare AI Validation
 Scaling clinical Artificial Intelligence across India's diverse healthcare ecosystem—spanning Tier-1 metro super-specialty centers, Tier-2 regional hospitals, and Tier-3 district facilities—is trapped between two flawed validation approaches:
@@ -49,7 +48,7 @@ During a multi-month **Passive Shadow Mode** run, **existing hospital systems an
 <div style="page-break-after: always;"></div>
 
 <!-- PAGE 2 -->
-## Page 2: The 5-Pillar Governance Framework, Telemetry & Business Impact
+## The 5-Pillar Governance Framework, Telemetry & Business Impact
 
 ### 4. Five-Pillar Monitoring Architecture (Criteria Governed Externally)
 Every shadow pilot is evaluated across **five governance pillars**, tailored to five clinical solution categories (**Diagnostics**, **Screening**, **Patient Engagement**, **Clinical Treatment**, and **Miscellaneous**) and split across two collection cadences: **One-Time Onboarding Gates (Payload 0)** and **Ongoing Performance & Compliance Monitoring**.

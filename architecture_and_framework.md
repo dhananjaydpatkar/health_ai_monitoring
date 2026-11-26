@@ -1,7 +1,7 @@
 # Clinical AI Shadow-Mode Monitoring Platform
 ## Detailed Architecture, Governance Framework & Operational Blueprint
 
-> **Companion Executive Brief:** [2-Page Executive Summary](./summary.md)  
+
 > **Authoritative Evaluation Criteria & Benchmarks:** [Evaluation Metrics Explorer — AI Health Solution Evaluations](https://catch-evals.s3.ap-south-1.amazonaws.com/Evaluation_Metrics_Explorer.html)  
 > **Scope:** Comprehensive technical, clinical, governance, privacy, and operational blueprint for hosting multi-centric healthcare AI shadow-mode pilots in India.  
 > **Visual Disclaimer:** All diagrams, dashboard mockups, and animations in this document are representative illustrations; any numeric metrics, scores, or case figures depicted are dummy/illustrative data points only.
