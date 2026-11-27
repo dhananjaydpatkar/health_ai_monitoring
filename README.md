@@ -14,8 +14,8 @@ A governance-led, privacy-preserving monitoring platform enabling **multi-centri
 | Resource | Purpose & Audience | Link |
 | :--- | :--- | :--- |
 | **Evaluation Metrics Explorer** *(External Authoritative Registry)* | Interactive single source of truth for all category-specific evaluation criteria, One-Time Onboarding Gates, Ongoing Monitoring metrics, formulas, input sources, and target benchmarks across all 5 pillars. | [Evaluation Metrics Explorer](https://catch-evals.s3.ap-south-1.amazonaws.com/Evaluation_Metrics_Explorer.html) |
-| **2-Page Executive Summary** | Boardroom-ready brief covering the India multi-centric data challenge, shadow-mode paradigm shift, 5-pillar governance architecture, and post-pilot pathways. | [summary.md](./summary.md) |
-| **Detailed Architecture & Monitoring Framework** | Comprehensive blueprint detailing objectives, stakeholder model, pre-deployment ethics/IT gates, 5-pillar & two-cadence governance (referencing the Metrics Explorer), cross-check reconciliation, telemetry hook APIs, drift monitoring, scheduled reports, and phased implementation roadmap. | [architecture_and_framework.md](./architecture_and_framework.md) |
+| **Summary** | Boardroom-ready brief covering the India multi-centric data challenge, shadow-mode paradigm shift, 5-pillar governance architecture, and post-pilot pathways. | [summary.md](./summary.md) |
+| **Architecture & Monitoring Framework** | Comprehensive blueprint detailing objectives, stakeholder model, pre-deployment ethics/IT gates, 5-pillar & two-cadence governance (referencing the Metrics Explorer), cross-check reconciliation, telemetry hook APIs, drift monitoring, scheduled reports, and phased implementation roadmap. | [architecture_and_framework.md](./architecture_and_framework.md) |
 
 ---
 
